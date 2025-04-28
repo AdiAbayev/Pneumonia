@@ -1,6 +1,6 @@
 Web application for detecting pneumonia using artificial intelligence
 
-Adi Abayev & Zhaniya Zharylganova
+Adi Abayev
 
 This study is devoted to the development of a web application based on the method of automatic recognition of pneumonia using convolutional neural networks (CNN). As part of the project, a computer model based on the Keras Tensorflow library for Python was created. The main stages of the work were: learning the basics of neural networks, collecting and preprocessing data, developing and debugging a program, analyzing the results, developing and debugging a web application using the streamlit library.
 The proposed model demonstrated a high accuracy of pneumonia recognition, reaching 95-97%, which confirms its potential for practical use in medical institutions. This work highlights the importance of introducing artificial intelligence technologies into diagnostic processes, opening up opportunities to increase their effectiveness.
